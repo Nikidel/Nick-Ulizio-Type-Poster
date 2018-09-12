@@ -1,0 +1,53 @@
+body {
+background: url(../img/ramon-salinero-271002-unsplash.jpg) no-repeat 50% 50%;
+background-size: cover;	
+}
+
+h1 {
+text-align: left;
+text-transform: uppercase;
+font-size: 7.5rem;
+color: yellow;
+letter-spacing: 1px;
+line-height: .9;
+font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+text-align: left;
+text-transform: uppercase;
+font-size: 4rem;
+color: #0061FF;
+letter-spacing: 1px;
+line-height: .11;
+font-family: 'NTR', sans-serif;
+}
+
+footer {
+text-align: left;
+text-transform: uppercase;
+font-size: 1rem;
+color: limegreen;
+letter-spacing: 1px;
+line-height: .9;
+font-family: 'Roboto Slab', serif;
+padding-left: 5rem;
+padding-top: 3rem;
+}
+
+footer a {
+color: violet;
+}
+
+h1 span{
+	Color: turquoise;
+}
+
+h2 span {
+	color: #FF2100;
+}
+
+main {
+	padding-top: 10rem;
+	padding-left: 5rem;
+}
